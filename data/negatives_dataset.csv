@@ -1,4 +1,4 @@
-neuniprotID,start_index,end_index,original_nes_len,sequence,label
+uniprotID,start_index,end_index,original_nes_len,sequence,label
 A7YB12,1,16,16,MAATGGGADDESRSGR,0
 A7YB12,9,24,16,DDESRSGRSSSDGECA,0
 A7YB12,17,32,16,SSSDGECAVAPEPLAE,0
